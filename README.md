@@ -14,3 +14,12 @@ Stripe payment.
 HTML5, CSS2, CSS3, JSON / XML / HTML , JavaScript / JQuery,
 GIT, BitBucket, GitLab
 I always look for problems which challenge me so that I can narrow down possible solutions and find a better one.
+
+<h1 align="center">Hi 👋, I'm Javascript Developer</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+
+<h3 align="left">Connect with me:</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
